@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/max/2798/0*C_ibLD-RscbJzjMq.png" width="600" height="300" align="right" />
+<img src="https://miro.medium.com/max/2798/0*C_ibLD-RscbJzjMq.png" width="600" height="300" align="center" />
 
 # Pre-Processing
 
