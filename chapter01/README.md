@@ -1,4 +1,4 @@
-<a href="https://explosion.ai"><img src="https://explosion.ai/assets/img/logo.svg" width="125" height="125" align="right" /></a>
+<img src="https://miro.medium.com/max/2798/0*C_ibLD-RscbJzjMq.png" width="600" height="300" align="right" />
 
 # Pre-Processing
 
