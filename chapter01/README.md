@@ -27,3 +27,4 @@ Data is raw information, its the representation of both human and machine observ
 - GitHub repository has high-quality datasets.https://github.com/awesomedata/awesome-public-datasets
 
 
+***2. Import the dataset & Libraries***
