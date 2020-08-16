@@ -19,3 +19,14 @@ The data preprocessing methods directly affect the outcomes of any analytic algo
 - Feature Scaling
 
 
+
+***1. Gathering the data***
+Data is raw information, its the representation of both human and machine observation of the world. Dataset entirely depends on what type of problem you want to solve. Each problem in machine learning has its own unique approach.
+
+- Kaggle: https://www.kaggle.com/datasets
+- UCI Machine Learning Repository: http://mlr.cs.umass.edu/ml/
+- GitHub repository has high-quality datasets.https://github.com/awesomedata/awesome-public-datasets
+
+
+***2. Import the dataset & Libraries***
+
