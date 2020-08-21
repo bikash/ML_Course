@@ -32,3 +32,17 @@ Disadvantages:
 5. can be large tree-pruning is necessary
 6. does not easily handle non-numeric data
 
+**Splitting of Decision tree**
+
+1. Continuous Target Variable
+
+   ​		Reduction in Variance
+
+2. Categorical Target Variable
+
+   - Gini Impurity
+   - Information Gain
+   - Chi-Square
+
+Read more: https://www.analyticsvidhya.com/blog/2020/06/4-ways-split-decision-tree/
+
