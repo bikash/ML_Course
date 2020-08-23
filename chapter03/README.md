@@ -46,3 +46,22 @@ Disadvantages:
 
 Read more: https://www.analyticsvidhya.com/blog/2020/06/4-ways-split-decision-tree/
 
+**Random Forest**
+
+
+
+### Advantages & Disadvantages
+
+**Advantages:**
+
+- Typically have very good performance
+- Remarkably good “out-of-the box” - very little tuning required
+- Built-in validation set - don’t need to sacrifice data for extra validation
+- No pre-processing required
+- Robust to outliers
+
+**Disadvantages:**
+
+- Can become slow on large data sets
+- Although accurate, often cannot compete with advanced boosting algorithms
+- Less interpretable
